@@ -1,5 +1,6 @@
 # IP Service Checker
-
+## MacOS 開箱即用：[IP-Service-Checker.dmg](https://leifeng1688.github.io/IP-Service-Checker/IP-Service-Checker.dmg)
+## Windows 開箱即用：[IP-Service-Checker.exe](https://leifeng1688.github.io/IP-Service-Checker/IP-Service-Checker.exe)
 > 網路服務掃描工具，支援 TCP Port 掃描、HTTP 狀態檢查、SSL/TLS 憑證查詢。
 
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-blue)
